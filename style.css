@@ -7,8 +7,6 @@ body {
 h1 {
     color:grey;
     font-family:verdana;
-
-    
 }
 
 button{
@@ -17,20 +15,21 @@ left:20px;
 
 .box{
 background-color:white;
-    color:black;
-    width:500px;
-    padding:20px;
-    border-radius:25px;
-    position:center;
+color:black;
+width:500px;
+padding:20px;
+border-radius:25px;
+position:center;
 }
 
 .maindiv {
-    padding-left:50px;
+padding-left:50px;
 }
 
 footer{
 text-align:left;
 }
+
 .result{
 display:none;
 padding-left:50px;
@@ -39,15 +38,16 @@ padding-left:50px;
 .highlight{
 background-color:yellow;
 }
+
 .column {
-  float: left;
-  width: 25%;
-  display:table;
-  }
+float: left;
+width: 25%;
+display:table;
+}
   
-  .column1 {
-  float: left;
-  width: 100%;
-  display:table;
-  padding-left:50px;
-  }
+.column1 {
+float: left;
+width: 100%;
+display:table;
+padding-left:50px;
+}
